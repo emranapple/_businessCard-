@@ -1,0 +1,21 @@
+body {
+    padding: 0;
+    margin: 20px;
+}
+
+.avatar {
+    width: 150px;
+    /* border-radius: 4px; */
+}
+
+.card {
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    background-color: beige;
+    padding: 20px;
+    margin: 0 auto;
+    border-bottom: 6px solid bisque;
+    text-align: center;
+
+}
